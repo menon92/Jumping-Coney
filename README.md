@@ -13,7 +13,7 @@ To run from command line
 I have made a linux executable for this game. You can download it form https://github.com/menon92/jumping-coney/blob/master/installer-file/installer.tar.gz
 
 # Game Demo
-
+[![Alt text](https://img.youtube.com/vi/6xjpBZVYWto/0.jpg)](https://www.youtube.com/embed/6xjpBZVYWto)
 
 # Issue Tracking
 If you find any bug, please open a new issue with detail description at https://github.com/menon92/jumping-coney/issues
