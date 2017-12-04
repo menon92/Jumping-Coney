@@ -136,7 +136,7 @@ class Game:
 		enime_hits = pg.sprite.spritecollide(self.player, self.wingmans, True)
 		for enime in enime_hits:
 			if enime.type == 'wing_man':
-				self.hit_sound.play()
+				self.hit_sound.play() 
 			if enime_hits:
 				# decrease score
 				if self.score >= LOST_POINTS_BY_HIT_WINGMAN:
