@@ -20,7 +20,7 @@ class Spritesheet:
 		image = pg.Surface((width, height))
 		image.blit(self.spritesheet, (0, 0), (x, y, width, height))
 		image = pg.transform.scale(image, (int(width * scale_pct), int(height * 0.50)))
-		return image
+		return image 
 
 	def get_image(self, x, y, widht, height):
 		# grab an image out of a larger spritesheet
