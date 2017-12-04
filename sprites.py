@@ -85,7 +85,7 @@ class Player(pg.sprite.Sprite):
 								self.game.spritesheet.get_image(584, 0, 121, 201)]    # bunny2_stant.png
 		# remove black color from the frame
 		for frame in self.standing_frames:
-			frame.set_colorkey(BLACK)
+			frame.set_colorkey(BLACK) 
 
 		# load walk_frames for walking in right side 
 		self.walk_frames_r = [self.game.spritesheet.get_image(584, 203, 121, 201), # bunny2_walk1.png 
