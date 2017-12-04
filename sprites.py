@@ -75,7 +75,7 @@ class Player(pg.sprite.Sprite):
 		# self.vy = 0 # velocity to y
 		# self.rect.center = (WIDTH / 2, HEIGHT / 2)
 		self.rect.center = (40, HEIGHT - 100)
-		self.pos = vec(40, HEIGHT - 100)            # initial position
+		self.pos = vec(40, HEIGHT - 100)            # initial  position
 		self.vel = vec(0, 0)                        # velocity
 		self.acc = vec(0, 0)                        # acceleration
 
