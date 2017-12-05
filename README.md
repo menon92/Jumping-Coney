@@ -1,5 +1,5 @@
 # About
-This is a jumping game. I found a skeleton of this game @kidscancode. Last few days i play with this and try to do some improvement to make this game more interesting and challenging.
+This is a jumping game. I found a skeleton of this game https://github.com/kidscancode. Last few days i play with this and try to do some improvement to make this game more interesting and challenging.
 
 # Dependency
 * Python 2.7.6
