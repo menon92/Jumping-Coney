@@ -20,6 +20,14 @@ to run game just extract zip file click on `main`
 # Game Demo
 [![Alt text](https://img.youtube.com/vi/6xjpBZVYWto/0.jpg)](https://www.youtube.com/embed/6xjpBZVYWto)
 
+# Deployment
+Install pyinstaller using  `pip install pyinstaller` then run bellow command
+
+- for Linux: `pyinstaller -F main.py`
+- for Windows:  `pyinstaller -w -F main.py`
+
+this command generate installer file
+
 # Issue Tracking
 If you find any bug, please open a new issue with detail description at https://github.com/menon92/jumping-coney/issues
 
