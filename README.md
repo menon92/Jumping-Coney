@@ -10,7 +10,7 @@ This is a jumping game. I found a skeleton of this game https://github.com/kidsc
 To run from command line 
 - python main.py
 
-I have made a linux and windows executable for this game.
+I have made a linux and windows executable for this game. You can download it from bellow link
 
 - Linux installer: https://github.com/menon92/jumping-coney/blob/master/installer-file/installer.tar.gz
 - Windows installer : https://github.com/menon92/jumping-coney/blob/master/installer-file/installer-windows.zip
