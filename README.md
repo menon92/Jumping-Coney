@@ -6,7 +6,7 @@ This is a jumping game. I found a skeleton of this game https://github.com/kidsc
 * Pygame 1.9.3
 * To work with python 3 you need to change very few line 
 
-# Run
+# How to run
 To run from command line 
 - python main.py
 
