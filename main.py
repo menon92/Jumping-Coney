@@ -76,19 +76,9 @@ class Game:
 		# initilize a player
 		# self parametter is for sending game object copy to player object
 		# so that player can access the each everythong in game object
-		self.player = Player(self) 
-		# initilize platform
-		# self.p1 = Platform(0, HEIGHT - 40, WIDTH, 40)
-		# self.p2 = Platform(WIDTH / 2 - 50, HEIGHT * 3 / 4, 100, 20)
-
+		self.player = Player(self)
+		
 		# add player to sprite group
-		# self.all_sprites.add(self.player)
-		# self.all_sprites.add(self.p1)
-		# self.platforms.add(self.p1)
-
-		# self.all_sprites.add(self.p2)
-		# self.platforms.add(self.p2)
-
 		for plat in PLATFORM_LIST:
 			# p = Platform(*plat)
 			# p = Platform(self, *plat)
