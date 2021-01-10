@@ -115,7 +115,7 @@ class Game:
 		pg.mixer.music.play(loops = -1)
 		self.playing = True
 		while self.playing:
-			 # keep loop running at the same speed all time
+			# keep loop running at the same speed all time
 			self.clock.tick(FPS)
 			self.events()
 			self.update()
